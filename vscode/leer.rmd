@@ -1,0 +1,3 @@
+# Visual Studio Code
+
+Estos son lo archivos usados en el video de visual studio code
