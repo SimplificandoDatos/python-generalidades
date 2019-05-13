@@ -1,0 +1,2 @@
+#Entorno Conda 
+Archivo utilizado para crear y modificar entornos de python en conda
