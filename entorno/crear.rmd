@@ -1,0 +1,10 @@
+## Crear nuevo entorno
+
+conda create -n simplificando python=3.7
+
+
+## Instalar librerias
+
+conda activate simplificando
+
+conda install numpy scipy pandas xlrd xlwings xlsxwriter openpyxl matplotlib seaborn jupyter jupyterlab
