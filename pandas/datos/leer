@@ -2,6 +2,7 @@
 ejemplo.csv: corresponde al video 01 Simplificando pandas, lectura y escritura de archivos parte I
 Los archivos 01_enero a 12_diciembre: corresponden al video 02 Simplificando pandas, lectura y escritura de archivos parte II
 
-**Archivo xlsx**
+**Archivos xlsx**
 datos_clima.xlsx: corresponden al video 03 Simplificando pandas, lectura y escritura de archivos parte III
+clima2018_format.xlsx: corresponde al video 06- Simplificando el trabajo con fechas y horas en Python/Pandas
 
