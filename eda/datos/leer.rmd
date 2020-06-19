@@ -1,0 +1,1 @@
+clima2018_ZTCorrec.xlsx: usado con el notebook 26_eda-2
