@@ -1,1 +1,3 @@
 Notebooks y scripts
+**13_eda-1.ipynb**: Análisis exploratorio usando la librería pandas-profiling
+**26_eda-2.ipynb**: Simplificando el Análisis exploratorio de datos con python II: Funciones y herramientas importantes de pandas
